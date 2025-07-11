@@ -1,5 +1,5 @@
 # AmazonPave: Annual highway paving data for the Brazilian Amazon (cleaned DNIT data)
-> Yearly time series of newly paved highways in the Brazilian Amazon (2001-2024). Data sourced from [DNIT (Departamento Nacional de Infraestrutura de Transportes)](https://www.gov.br/transportes/pt-br/assuntos/dados-de-transportes/bit/bit-mapas) within the Brazilian Government. DNIT provides spatially explicit data from 2016-2024, AmazonPave extends the time series back to 2001. Code written by Alyson Singleton.
+> Annual time series of highway paving in the Brazilian Amazon (2001-2024). Data sourced from [DNIT (Departamento Nacional de Infraestrutura de Transportes)](https://www.gov.br/transportes/pt-br/assuntos/dados-de-transportes/bit/bit-mapas) within the Brazilian Government. DNIT provides spatially explicit data from 2016-2024, AmazonPave extends the time series back to 2001. Code written by Alyson Singleton.
 >
 > Citation: Singleton, A. (2025). *AmazonPave: Annual highway paving data for the Brazilian Amazon (cleaned DNIT data).* Retrieved from [https://github.com/alyson-singleton/AmazonPave](https://github.com/alyson-singleton/AmazonPave).
 > 
