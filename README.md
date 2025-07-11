@@ -13,4 +13,4 @@ __Code__:
 
 ![Time series of newly paved highways in the Brazilian Amazon (2001-2024).](AmazonPave.gif)
 
-__AmazonPave Visualization__: Pink shows new highways paved each year, yellow shows previously paved highways. 
+__AmazonPave Visualization__: Pink indicates highways paved in the current year; yellow indicates highways paved in previous years.
