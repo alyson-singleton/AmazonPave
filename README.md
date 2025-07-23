@@ -5,12 +5,6 @@
 > 
 > Please feel free to email me with any questions at asinglet@stanford.edu.
 
-__Data__:
-* _text_: Text.
-
-__Code__:
-* _text_: Text.
-
 ![Time series of newly paved highways in the Brazilian Amazon (2001-2024).](AmazonPave.gif)
 
 __AmazonPave Visualization__: Pink indicates highways paved in the current year; yellow indicates highways paved in previous years.
